@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+yfinance
+os
+tensorflow.keras.models
+Sequential
+tensorflow.keras.layers
+time
+LSTM
+Dense
+sklearn.preprocessing
+MinMaxScaler
+sklearn.metrics
+mean_absolute_error
+matplotlib.pyplot
+base64
